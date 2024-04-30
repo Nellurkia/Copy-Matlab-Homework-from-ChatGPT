@@ -19,4 +19,4 @@ jobs:
         with:
           name: HW
           path: |
-            main.pdf
+            HW1/main.pdf
